@@ -12,4 +12,4 @@ Insert the .sql file to a empty MySQL file to get started.
 
 ### Usage
 
-Use this database to check previous offered courses 
+Use this database to check previously offered courses 
