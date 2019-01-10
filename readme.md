@@ -10,7 +10,10 @@ This is a MySQL database of North South University's offered course lists
 
 ## Getting Started
 
-Insert the .sql file to a empty MySQL file to get started.
+* Install [Xampp](https://www.apachefriends.org/index.html)
+* Start Apache and MySql from Xampp
+* Open any browser and go to http://localhost/phpmyadmin
+* Create a new Database and import the course_list.sql file
 
 ### Prerequisites
 
@@ -18,4 +21,13 @@ Insert the .sql file to a empty MySQL file to get started.
 
 ### Usage
 
-Use this database to check previously offered courses 
+* Select your database from phpmyadmin and run your sql query
+
+* *For example*
+
+```
+SELECT Time, Section 
+From `course list` 
+WHERE Faculty = 'RJP' and Course = 'CSE215' and Semester = '183' 
+```
+This query finds you the time and section for CSE215 course taken by Dr Rajesh Palit in the semester 183.
