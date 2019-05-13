@@ -2,7 +2,7 @@
 
 This is a MySQL database of North South University's offered course lists
 
-* Summmer 2017
+* Summer 2017
 * Fall 2017
 * Spring 2018
 * Summer 2018
