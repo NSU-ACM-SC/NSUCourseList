@@ -8,6 +8,7 @@ This is a MySQL database of North South University's offered course lists
 * Summer 2018
 * Fall 2018
 * Spring 2019
+* Summer 2019
 
 ## Getting Started
 
