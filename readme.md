@@ -1,12 +1,16 @@
 # NSU Offered Course Lists
 
+Browse the list online here: https://nsu.nihal.one/advising/
+
 This is a MySQL database of North South University's offered course lists
 
-* Summmer 2017
+* Summer 2017
 * Fall 2017
 * Spring 2018
 * Summer 2018
 * Fall 2018
+* Spring 2019
+* Summer 2019
 
 ## Getting Started
 
